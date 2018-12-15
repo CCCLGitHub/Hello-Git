@@ -10,6 +10,3 @@
 	MySQL
 6. 开发工具
 	Intellij IDEA,Maven
-
-
-修改一下啊啊啊啊啊啊啊
