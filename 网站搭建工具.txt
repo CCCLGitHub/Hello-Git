@@ -1,0 +1,12 @@
+1. Java
+	Java写后台处理
+2. 前端
+	html, CSS, Javascript, JSON, AJAX, JQuery ,Bootstrap, Vue.js 
+3. 框架部分
+	spring springmvc springboot
+4. 中间件
+	redis, nginx, elasticsearch, shiro
+5. 数据库：
+	MySQL
+6. 开发工具
+	Intellij IDEA,Maven
