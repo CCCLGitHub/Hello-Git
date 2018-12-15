@@ -1,0 +1,9 @@
+git add .    //增加一个文件
+git commit -m ""    //提交说明
+git push orgin master   //把修改push上去
+
+
+git pull origin master     //把仓库内容拉下来
+git rm -r --cached web.text   //删除web.txt
+git commit -m ""    //提交说明
+git push origin master    //把修改提交上去
